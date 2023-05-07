@@ -8,3 +8,5 @@ const bb = "bb";
 const cc = "cc";
 const ccc = "ccc";
 const zz = "zz";
+const pi = 3.14;
+const pi2 = 3.14444444444444;
