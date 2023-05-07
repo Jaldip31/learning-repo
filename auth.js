@@ -16,3 +16,5 @@ console.log("hiiii");
 mmmmmm;
 
 console.log("=======jjj===");
+
+const xz = false;
