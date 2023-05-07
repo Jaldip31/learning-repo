@@ -5,3 +5,4 @@ const d = 677;
 const e = true;
 const aa = "aa";
 const bb = "bb";
+const cc = "cc";
