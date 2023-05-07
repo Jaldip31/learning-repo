@@ -1,2 +1,2 @@
 const a = "auth";
-const b = "module";
+const b = "module---";
