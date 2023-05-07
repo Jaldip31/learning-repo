@@ -16,4 +16,3 @@ console.log("hiiii");
 mmmmmm;
 
 console.log("=======jjj===");
-console.log("========op==");
