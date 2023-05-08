@@ -11,6 +11,3 @@ const zz = "zz";
 const pi = 3.14;
 const pi2 = 3.14444444444444;
 const angle = 90;
-
-console.log("hiiii");
-mmmmmm;
